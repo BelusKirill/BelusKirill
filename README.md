@@ -5,6 +5,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BelusKirill&layout=compact)](https://github.com/BelusKirill/github-readme-stats&theme=radical)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BelusKirill&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BelusKirill&theme=default)
 <!--
 **BelusKirill/BelusKirill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
